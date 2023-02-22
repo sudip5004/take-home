@@ -25,6 +25,7 @@ id is a counter that increases by a certain amount every time a request is made 
 6. Access the server using an http client.
 
 ## Tasks:
-1. Come up with **functional tests** for the application.
-2. Write tests/assertions in your favorite programming language. 
+1. Come up with **functional tests** for the application. Use Junit5 and Write tests/assertions in java/kotlin.
+2. Create a Java data class and use that data class to store/parse the service json response.
+3. Define a Json Schema and Do a Schema check for the response of http://localhost:8080/game?name=
 3. Open a pull request for code review.
